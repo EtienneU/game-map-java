@@ -1,39 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d654167-c753-4ed2-823a-87740db944ba" name="Changes" comment="First commit - all files with updated packages">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gameMapJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/action/Attaque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/DeplacementException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/Map1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/Map2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/Map3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objet/Croix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objet/Fleur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objet/Talisman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/Perso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Dragon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Fantome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/LoupGarou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Monstre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Sorciere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Squelette.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/hero/Chevalier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/hero/Gentil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/hero/Guerriere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personnage/hero/Ogre.java" afterDir="false" />
+    <list default="true" id="1d654167-c753-4ed2-823a-87740db944ba" name="Changes" comment="conflit gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit - all files with updated packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit - all files with updated packages" />
+    <MESSAGE value="conflit gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="conflit gitignore" />
   </component>
 </project>
