@@ -10,7 +10,7 @@ public class Map2 extends Map {
     public Map2() {
         super(16, 16);
 
-        //Creation et Positionnement des MONSTRES	 sur Map2
+        //Creation et Positionnement des MONSTRES sur Map2
         setTabMonstre(new Monstre[] {
                 new Sorciere(),
                 new LoupGarou(),
@@ -44,7 +44,6 @@ public class Map2 extends Map {
         setLegende(getLegende() + "\n" + getBoss().getName() + " est represente.e par '"
                 + getBoss().getId() + "' sur la map ... Attention ...\n");
 
-
         //Creation et Positionnement des Talismans sur Map2
         setTalismans(new Talisman[] {
                 new Fleur(),
@@ -62,7 +61,7 @@ public class Map2 extends Map {
             i++;
         }
         setLegende(getLegende() + "\n" + getTalismans().length + " Talismans se trouvent ici. Ils te seront d'une aide precieuse. On represente un talisman par un '"
-                + getTalismans()[0].getId() + "' sur la map ...\n"); // on part du principe que tous les talismans ont le m�me Id,c'est-�-dire 'T'
+                + getTalismans()[0].getId() + "' sur la map ...\n"); // on part du principe que tous les talismans ont le meme Id,c'est-a-dire 'T'
 
         // Construction des murs verticaux
         builtOneWall(new int[]{1,12}, new int[]{8,12}, 'v');

@@ -2,7 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+<<<<<<< HEAD
 *.class
+=======
+.class
+>>>>>>> ba92189cda404ab82b1e5c290dddab4d3ce9a26d
 
 ### Eclipse ###
 .apt_generated

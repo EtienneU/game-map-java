@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1d654167-c753-4ed2-823a-87740db944ba" name="Changes" comment="conflit gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/map/Map2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/Map2.java" afterDir="false" />
+=======
+    <list default="true" id="1d654167-c753-4ed2-823a-87740db944ba" name="Changes" comment="First commit - all files with updated packages">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameMapJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/action/Attaque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/DeplacementException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objet/Croix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objet/Fleur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objet/Talisman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/Perso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Fantome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/LoupGarou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Monstre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Sorciere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/ennemi/Squelette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/hero/Chevalier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/hero/Gentil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/hero/Guerriere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personnage/hero/Ogre.java" afterDir="false" />
+>>>>>>> ba92189cda404ab82b1e5c290dddab4d3ce9a26d
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +69,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -43,6 +80,17 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/urban/OneDrive/OD-Documents/DEV/IntelliJWorkspace/gameMapJava&quot;
+  }
+}</component>
+>>>>>>> ba92189cda404ab82b1e5c290dddab4d3ce9a26d
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="game" />
@@ -77,6 +125,7 @@
       <workItem from="1661960215912" duration="3917000" />
       <workItem from="1662019539532" duration="3942000" />
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="conflit gitignore">
       <created>1662039376718</created>
       <option name="number" value="00001" />
@@ -85,6 +134,8 @@
       <updated>1662039376718</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+>>>>>>> ba92189cda404ab82b1e5c290dddab4d3ce9a26d
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +154,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit - all files with updated packages" />
+<<<<<<< HEAD
     <MESSAGE value="conflit gitignore" />
     <option name="LAST_COMMIT_MESSAGE" value="conflit gitignore" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="First commit - all files with updated packages" />
+>>>>>>> ba92189cda404ab82b1e5c290dddab4d3ce9a26d
   </component>
 </project>
