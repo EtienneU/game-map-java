@@ -22,7 +22,7 @@ public class Map2 extends Map {
         getTabMonstres()[2].setPosition(new int[] {10,12});
         getTabMonstres()[3].setPosition(new int[] {2, 14});
 
-        setLegende("Tu es represente par '@' sur la map :)\n\n");
+        setLegende("Tu es represente.e par '@' sur la map :)\n\n");
 
         // on affiche l'Id de chaque PERSO sur la Map2
         int i = 0;
@@ -30,7 +30,7 @@ public class Map2 extends Map {
             setCharMap(getTabMonstres()[i].getId(),
                     getTabMonstres()[i].getPosition()[0],
                     getTabMonstres()[i].getPosition()[1]);
-            setLegende(getLegende() + getTabMonstres()[i].getName() + " est represente par '"
+            setLegende(getLegende() + getTabMonstres()[i].getName() + " est represente.e par '"
                     + getTabMonstres()[i].getId() + "' sur la map ...\n");
             i++;
         }
@@ -41,7 +41,7 @@ public class Map2 extends Map {
         getBoss().setPv(40);
         getBoss().setPosition(new int[] {14,14});
         setCharMap(getBoss().getId(), getBoss().getPosition()[0], getBoss().getPosition()[1]);
-        setLegende(getLegende() + "\n" + getBoss().getName() + " est represente par '"
+        setLegende(getLegende() + "\n" + getBoss().getName() + " est represente.e par '"
                 + getBoss().getId() + "' sur la map ... Attention ...\n");
 
 
