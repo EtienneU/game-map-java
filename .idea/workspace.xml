@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d654167-c753-4ed2-823a-87740db944ba" name="Changes" comment="try to commit...">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1d654167-c753-4ed2-823a-87740db944ba" name="Changes" comment="MAJ ReadMe file">
       <change beforePath="$PROJECT_DIR$/src/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadMe.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +75,14 @@
       <workItem from="1661960215912" duration="3917000" />
       <workItem from="1662019539532" duration="3942000" />
     </task>
+    <task id="LOCAL-00001" summary="MAJ ReadMe file">
+      <created>1662371186785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662371186785</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +103,7 @@
     <MESSAGE value="First commit - all files with updated packages" />
     <MESSAGE value="MAJ workspace.xml" />
     <MESSAGE value="try to commit..." />
-    <option name="LAST_COMMIT_MESSAGE" value="try to commit..." />
+    <MESSAGE value="MAJ ReadMe file" />
+    <option name="LAST_COMMIT_MESSAGE" value="MAJ ReadMe file" />
   </component>
 </project>
