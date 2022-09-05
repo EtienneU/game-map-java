@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d654167-c753-4ed2-823a-87740db944ba" name="Changes" comment="First commit - all files with updated packages">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1d654167-c753-4ed2-823a-87740db944ba" name="Changes" comment="try to commit...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadMe.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit - all files with updated packages" />
     <MESSAGE value="MAJ workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="MAJ workspace.xml" />
+    <MESSAGE value="try to commit..." />
+    <option name="LAST_COMMIT_MESSAGE" value="try to commit..." />
   </component>
 </project>
